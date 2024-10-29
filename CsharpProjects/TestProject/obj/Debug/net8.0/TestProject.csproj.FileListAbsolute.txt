@@ -1,0 +1,15 @@
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.exe
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.deps.json
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.dll
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.pdb
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.dll
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll
