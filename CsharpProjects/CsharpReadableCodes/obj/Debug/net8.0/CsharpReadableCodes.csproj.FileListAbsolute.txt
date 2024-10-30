@@ -1,0 +1,15 @@
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\CsharpReadableCodes\bin\Debug\net8.0\CsharpReadableCodes.exe
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\CsharpReadableCodes\bin\Debug\net8.0\CsharpReadableCodes.deps.json
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\CsharpReadableCodes\bin\Debug\net8.0\CsharpReadableCodes.runtimeconfig.json
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\CsharpReadableCodes\bin\Debug\net8.0\CsharpReadableCodes.dll
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\CsharpReadableCodes\bin\Debug\net8.0\CsharpReadableCodes.pdb
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\CsharpReadableCodes\obj\Debug\net8.0\CsharpReadableCodes.GeneratedMSBuildEditorConfig.editorconfig
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\CsharpReadableCodes\obj\Debug\net8.0\CsharpReadableCodes.AssemblyInfoInputs.cache
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\CsharpReadableCodes\obj\Debug\net8.0\CsharpReadableCodes.AssemblyInfo.cs
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\CsharpReadableCodes\obj\Debug\net8.0\CsharpReadableCodes.csproj.CoreCompileInputs.cache
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\CsharpReadableCodes\obj\Debug\net8.0\CsharpReadableCodes.sourcelink.json
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\CsharpReadableCodes\obj\Debug\net8.0\CsharpReadableCodes.dll
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\CsharpReadableCodes\obj\Debug\net8.0\refint\CsharpReadableCodes.dll
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\CsharpReadableCodes\obj\Debug\net8.0\CsharpReadableCodes.pdb
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\CsharpReadableCodes\obj\Debug\net8.0\CsharpReadableCodes.genruntimeconfig.cache
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\CsharpReadableCodes\obj\Debug\net8.0\ref\CsharpReadableCodes.dll
