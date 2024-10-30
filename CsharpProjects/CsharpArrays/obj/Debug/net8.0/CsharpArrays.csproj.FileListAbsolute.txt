@@ -1,0 +1,15 @@
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\CsharpArrays\bin\Debug\net8.0\CsharpArrays.exe
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\CsharpArrays\bin\Debug\net8.0\CsharpArrays.deps.json
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\CsharpArrays\bin\Debug\net8.0\CsharpArrays.runtimeconfig.json
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\CsharpArrays\bin\Debug\net8.0\CsharpArrays.dll
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\CsharpArrays\bin\Debug\net8.0\CsharpArrays.pdb
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\CsharpArrays\obj\Debug\net8.0\CsharpArrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\CsharpArrays\obj\Debug\net8.0\CsharpArrays.AssemblyInfoInputs.cache
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\CsharpArrays\obj\Debug\net8.0\CsharpArrays.AssemblyInfo.cs
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\CsharpArrays\obj\Debug\net8.0\CsharpArrays.csproj.CoreCompileInputs.cache
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\CsharpArrays\obj\Debug\net8.0\CsharpArrays.sourcelink.json
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\CsharpArrays\obj\Debug\net8.0\CsharpArrays.dll
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\CsharpArrays\obj\Debug\net8.0\refint\CsharpArrays.dll
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\CsharpArrays\obj\Debug\net8.0\CsharpArrays.pdb
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\CsharpArrays\obj\Debug\net8.0\CsharpArrays.genruntimeconfig.cache
+E:\alex0\Documents\Programming Practice\C#\C-Programming\CsharpProjects\CsharpArrays\obj\Debug\net8.0\ref\CsharpArrays.dll
